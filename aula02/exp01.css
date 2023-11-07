@@ -1,32 +1,14 @@
 h1{
- background-color: darkturquoise;
-color: black;
-}
-
-h2{
-    background-color: black;
-color: aliceblue;
+    background-color: rgb(47, 0, 255);
 }
 
 p{
-    background-color: rgb(7, 207, 74);
-
+    background-color: rgb(99, 30, 210);
+}
+h2{
+    background-color: rgb(43, 226, 113);
 }
 
-.paragrafo2{
-    background-color: blue;
-
-}
-
-#paragrafo1{
-    background-color: deeppink;
-    font-size: 60px;
-}
-
-pre{
-    background-color: aquamarine;
-    color:black;
-    font-size: 60px;
-    text-align:  center;
-    height: 99px;
+p{
+    background-color: rgb(160, 95, 145);
 }

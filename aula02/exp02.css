@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(138, 89, 34);
+    font-size: 35px;
+}
+
+h2
+{ background-color: rgb(244, 127, 255);
+ font-size: 40px;
+}
+
+.a{
+    background-color: rgb(222, 135, 161);
+ font-size: 40px;
+}
+
+#d{
+    background-color: rgb(13, 237, 245);
+    color: rgb(13, 14, 14);
+    font-size: 30px;
+    
+}

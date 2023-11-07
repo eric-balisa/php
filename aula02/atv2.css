@@ -1,0 +1,36 @@
+#o{
+    background-color: rgb(151, 151, 64);
+    height: 1100px;
+    width: 1600px;
+    
+}
+
+#w{
+    background-color: brown;
+    height: 1100px;
+    width: 1600px;
+}
+
+#s{
+    background-color: aqua;
+    height: 1100px;
+    width: 1600px;
+}
+
+#a{
+    background-color: chartreuse;
+    height:1100px;
+    width: 1600px;
+}
+
+#div4{
+    background-color: chartreuse;
+    height: 1100px;
+    width: 1600px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
