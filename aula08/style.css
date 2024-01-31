@@ -1,0 +1,76 @@
+*{
+    font-family: cursive;
+}
+
+.container{
+    display: grid;
+    grid-template-areas: "box1 box1"
+                         "box2 box3"
+                         "box4 box4";
+    grid-template-columns: 75% 25%;
+    grid-template-rows: 20% 60% 20%;
+    height: 100vh;
+}
+
+.box1{
+    grid-area: box1;
+    background-color: red;
+    text-align: center;
+}
+
+.box2{
+    grid-area: box2;
+    background-color: yellow;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.box21{
+    background-color: rgba(210, 105, 30, 80%);
+    height: 33.33%;
+    width: 100%;
+}
+
+.box22{
+    background-color: rgba(210, 105, 30, 60%);
+    height: 33.33%;
+    width: 100%;
+}
+
+.box23{
+    background-color: rgba(210, 105, 30, 30%);
+    height: 33.33%;
+    width: 100%;
+}
+
+.box3{
+    grid-area: box3;
+    background-color: darkorchid;
+    text-align: center;
+}
+
+.box4{
+    grid-area: box4;
+    background-color: peru; 
+    text-align: center;
+    display: flex;
+}
+
+.box41{
+    background-color: rgba(130, 69, 18,80%);
+    height: 100%;
+    width: 100%;
+}
+
+.box42{
+    background-color: rgba(130,105,30,60%);
+    height: 100%;
+    width: 100%;
+}
+
+.box43{
+    background-color: rgba(130,105,30,30%);
+    height: 100%;
+    width: 100%;
+}
